@@ -1,0 +1,9 @@
+ICICI\web\views\FrontView.class
+ICICI\MyApplicationModule.class
+ICICI\ResponseLogger.class
+ICICI\web\components\JsUpdate.class
+ICICI\ServletConfig.class
+ICICI\web\components\JsComponent.class
+ICICI\web\components\JsInit.class
+ICICI\web\components\TextLabel.class
+ICICI\web\views\RootView.class
